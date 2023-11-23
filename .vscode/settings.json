@@ -1,0 +1,10 @@
+{
+  "editor.snippetSuggestions": "top",
+  "emmet.triggerExpansionOnTab": true,
+  "editor.suggest.localityBonus": true,
+  "editor.inlineSuggest.enabled": true,
+  "html.format.contentUnformatted": "",
+  "html.format.extraLiners": "",
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "emmet.useInlineCompletions": true
+}
